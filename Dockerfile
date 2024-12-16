@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:24.10
 
 # default screen size
 ENV XRES=1280x800x24
