@@ -1,0 +1,28 @@
+[MainWindow0]
+1024x740 screen: XPosition=1
+1024x740 screen: YPosition=34
+State=AAAA/wAAAAD9AAAAAAAAAqoAAAG0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACZ/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+screen=screen
+
+[MainWindow0 Settings]
+1024x740 screen: XPosition=1
+1024x740 screen: YPosition=34
+State=AAAA/wAAAAD9AAAAAAAAAqoAAAG0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACZ/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+WindowState=8
+screen=screen
+
+[Open Documents]
+Count=0
+
+[Open MainWindows]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/bin/start_kde.sh
+File2[$e]=$HOME/bin/start_openbox.sh
+File3[$e]=$HOME/bin/start_mate.sh
+Name1[$e]=start_kde.sh
+Name2[$e]=start_openbox.sh
+Name3[$e]=start_mate.sh

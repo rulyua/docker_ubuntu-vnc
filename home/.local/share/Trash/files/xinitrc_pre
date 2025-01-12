@@ -1,0 +1,2 @@
+xsetroot -solid darkgreen
+xmodmap .Xmodmap

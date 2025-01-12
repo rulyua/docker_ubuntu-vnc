@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ubuntu/bin" added="2024-12-21T17:44:17.652277Z" modified="2024-12-26T15:05:01.799919Z" visited="2024-12-21T17:44:17.652278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-12-26T15:05:01.799917Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/bin/start_mate.sh" added="2024-12-21T17:48:40.690371Z" modified="2024-12-22T00:47:40.330000Z" visited="2024-12-22T00:47:40.330000Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 5:15;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-12-21T17:57:18.708515Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-21T17:52:52.652688Z" count="3"/>
+          <bookmark:application name="Caja" exec="&apos;kwrite %U&apos;" modified="2024-12-21T19:31:37.589457Z" count="1"/>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2024-12-22T00:47:40.330000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/bin/start_xfce.sh" added="2024-12-21T17:50:24.641564Z" modified="2024-12-21T19:31:04.844295Z" visited="2024-12-21T17:50:24.641565Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:11;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-12-21T19:31:04.844291Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/bin/start_kde.sh" added="2024-12-21T17:54:42.105874Z" modified="2024-12-22T00:47:19.014000Z" visited="2024-12-22T00:47:19.014000Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 4:59;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-12-21T19:39:07.558429Z" count="11"/>
+          <bookmark:application name="org.xfce.mousepad" exec="mousepad %U %u" modified="2024-12-21T18:00:07.242000Z" count="1"/>
+          <bookmark:application name="Caja" exec="&apos;kate -b %U&apos;" modified="2024-12-21T19:28:59.096255Z" count="2"/>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2024-12-22T00:47:19.014000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/bin/start_openbox.sh" added="2024-12-21T18:01:18.808420Z" modified="2024-12-21T19:31:04.849210Z" visited="2024-12-21T19:30:42.323000Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-12-21T19:31:04.849209Z" count="5"/>
+          <bookmark:application name="org.xfce.mousepad" exec="mousepad %U %u" modified="2024-12-21T19:30:42.323000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="network:///" added="2024-12-22T04:09:57.480383Z" modified="2024-12-22T04:09:57.480386Z" visited="2024-12-22T04:09:57.480384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-12-22T04:09:57.480385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-12-22T04:10:29.154023Z" modified="2024-12-22T04:10:29.154028Z" visited="2024-12-22T04:10:29.154024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-12-22T04:10:29.154026Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///test_container" added="2024-12-22T04:10:31.641146Z" modified="2024-12-22T04:10:31.641151Z" visited="2024-12-22T04:10:31.641148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-12-22T04:10:31.641149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/.config" added="2024-12-26T15:06:25.381863Z" modified="2024-12-26T15:06:25.381869Z" visited="2024-12-26T15:06:25.381864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-26T15:06:25.381866Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

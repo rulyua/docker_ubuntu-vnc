@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=start_kde.sh
+Type=Link
+URL[$e]=file:$HOME/bin/start_kde.sh
+X-KDE-LastOpenedWith=org.xfce.mousepad

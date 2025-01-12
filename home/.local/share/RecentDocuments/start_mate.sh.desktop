@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=start_mate.sh
+Type=Link
+URL[$e]=file:$HOME/bin/start_mate.sh
+X-KDE-LastOpenedWith=org.kde.kate

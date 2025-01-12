@@ -1,0 +1,19 @@
+[Desktop Entry]
+DefaultProfile=Profile 2.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1024x740 screen: Height=459
+1024x740 screen: Width=793
+1024x740 screen: XPosition=115
+1024x740 screen: YPosition=133
+MenuBar=Enabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAN4A////+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABLgD///8AAAMZAAABywAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+screen=screen
+
+[UiSettings]
+ColorScheme=
