@@ -16,7 +16,7 @@ connect VNC client to localhost:5902
 - **openbox**
 
 
-##Credentials:
+### Credentials:
 | User   | Password |
 | ------ | -------- |
 | ubuntu | m        |
